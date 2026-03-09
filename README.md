@@ -21,7 +21,7 @@
 - Deep Learning Architectures Implementation
 
 ## 📫 Contact
-- LinkedIn: [...](https://www.linkedin.com/in/mohamed-el-nashar-026500233/)
+- LinkedIn: [(https://www.linkedin.com/in/mohamed-el-nashar-026500233/)]
 - Email: mohamednashar17@gmail.com
 
 <!--
