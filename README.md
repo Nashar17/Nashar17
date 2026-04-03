@@ -23,6 +23,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="LangChain" width="40" height="40"/>
 </p>
 
 ## 📂 Featured Projects
